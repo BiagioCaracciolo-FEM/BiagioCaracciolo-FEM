@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Biagio!
+- I love cats, food and videogame;
 - That's all...
 
 <!---
